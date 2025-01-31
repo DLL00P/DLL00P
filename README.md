@@ -1,30 +1,44 @@
 <div align="center">
-<h1 align="center">Hola, soy DLL👋</h1>
+  <h1>Hola, soy DLL 👋</h1>
+  <img src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=800" width="500px">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/DDL00P?style=social)](https://github.com/DDL00P)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/TU-PERFIL)
 </div>
-<img src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=800">
 
-[![GitHub followers](https://img.shields.io/github/followers/DDL00P?style=social)](https://github.com/DDL00P)
+---
 
-## Sobre mi
+## 🚀 Sobre mí  
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-    
-<br>
+💡 **Desarrollador apasionado por la tecnología y la innovación.**  
+💻 **Especializado en:** `JavaScript`, `Python`, `C++`, `React`, `Node.js`.  
+📚 **Siempre aprendiendo:** Actualmente explorando `Inteligencia Artificial` y `Blockchain`.  
+🎯 **Objetivo:** Crear proyectos open-source y compartir conocimientos.  
 
-## Proyectos *bombitas*
+---
 
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
+## 🛠️ Proyectos Destacados  
 
-### ⚙️ &nbsp;GitHub Analytics
+🌟 **[Proyecto 1](https://github.com/DDL00P/proyecto1)** – Breve descripción del proyecto.  
+🚀 **[Proyecto 2](https://github.com/DDL00P/proyecto2)** – Otro proyecto interesante en el que trabajaste.  
+🎨 **[Proyecto 3](https://github.com/DDL00P/proyecto3)** – Proyecto de diseño o frontend llamativo.  
+
+---
+
+## 📊 GitHub Analytics  
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/DDL00P">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DDL00P&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDL00P&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
+---
+
+## 📫 Contacto  
+📩 **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
+💼 **LinkedIn:** [linkedin.com/in/TU-PERFIL](https://linkedin.com/in/TU-PERFIL)  
+
+¡Gracias por visitar mi perfil! 😊✨  
+
