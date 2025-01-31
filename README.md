@@ -12,15 +12,15 @@
 
 💡 **Desarrollador apasionado por la tecnología y la innovación.**  
 💻 **Especializado en:** `JavaScript`, `Python`, `C++`, `React`, `Node.js`.  
-📚 **Siempre aprendiendo:** Actualmente explorando `Inteligencia Artificial` y `Blockchain`.  
-🎯 **Objetivo:** Crear proyectos open-source y compartir conocimientos.  
+📚 **Siempre aprendiendo:** Actualmente explorando `Ciberseguridad` y `Pentesting`.  
+🎯 **Objetivo:** Llegar a ser un buen Pentester reconocido  
 
 ---
 
 ## 🛠️ Proyectos Destacados  
 
 🌟 **[Proyecto 1](https://github.com/DDL00P/Machine-Ports)** – Breve descripción del proyecto.  
-🚀 **[Proyecto 2](https://github.com/DDL00P/proyecto2)** – Otro proyecto interesante en el que trabajaste.  
+🚀 **[Proyecto 2](https://github.com/DDL00P/Portscan)** – Otro proyecto interesante en el que trabajaste.  
 🎨 **[Proyecto 3](https://github.com/DDL00P/proyecto3)** – Proyecto de diseño o frontend llamativo.  
 
 ---
