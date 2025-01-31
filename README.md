@@ -19,7 +19,7 @@
 
 ## 🛠️ Proyectos Destacados  
 
-🌟 **[Proyecto 1](https://github.com/DDL00P/MachinePorts)** – Breve descripción del proyecto.  
+🌟 **[Proyecto 1](https://github.com/DDL00P/Machine-Ports)** – Breve descripción del proyecto.  
 🚀 **[Proyecto 2](https://github.com/DDL00P/proyecto2)** – Otro proyecto interesante en el que trabajaste.  
 🎨 **[Proyecto 3](https://github.com/DDL00P/proyecto3)** – Proyecto de diseño o frontend llamativo.  
 
@@ -37,7 +37,6 @@
 ---
 
 ## 📫 Contacto  
-📩 **Email:** [javi.cybersjr@gmail.com](mailto:javi.cybersjr@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/TU-PERFIL](https://linkedin.com/in/TU-PERFIL)  
+📩 **Email:** [javi.cybersjr@gmail.com](mailto:javi.cybersjr@gmail.com)    
 
 ¡Gracias por visitar mi perfil! 😊✨  
