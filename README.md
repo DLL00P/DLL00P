@@ -1,25 +1,26 @@
 <div align="center">
-  <h1>Hola, soy DLL 👋</h1>
-  <img src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=800" width="500px">
+  <h1>Hi, I'm DLL 👋</h1>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800px">
   
   [![GitHub followers](https://img.shields.io/github/followers/DDL00P?style=social)](https://github.com/DDL00P)
 </div>
 
 ---
 
-## 🚀 Sobre mí  
+## 🚀 About Me  
 
-💡 **Desarrollador apasionado por la tecnología y la innovación.**  
-💻 **Especializado en:** `JavaScript`, `Python`, `C++`, `React`, `Node.js`.  
-📚 **Siempre aprendiendo:** Actualmente explorando `Ciberseguridad` y `Pentesting`.  
-🎯 **Objetivo:** Llegar a ser un buen Pentester reconocido  
+💡 **Passionate about technology and innovation.**  
+💻 **Specialized in:** `JavaScript`, `Python`, `C++`, `React`, `Node.js`.  
+📚 **Always Learning:** Currently exploring `Cybersecurity` and `Pentesting`.  
+🎯 **Goal:** To become a well-known Pentester.  
 
 ---
 
-## 🛠️ Proyectos Destacados  
+## 🛠️ Featured Projects  
 
-🌟 **[Proyecto 1](https://github.com/DDL00P/Machine-Ports)** – Descripcion de los puertos mas comunes en Windows y Linux  
-🚀 **[Proyecto 2](https://github.com/DDL00P/Ports-scan)** – Un escaner de puertos    
+🌟 **[Machine Ports](https://github.com/DDL00P/Machine-Ports)** – A description of the most common ports in Windows and Linux.  
+🚀 **[Ports Scan](https://github.com/DDL00P/Ports-scan)** – A simple port scanner.    
 
 ---
 
@@ -34,7 +35,7 @@
 
 ---
 
-## 📫 Contacto  
-📩 **Email:** [javi.cybersjr@gmail.com](mailto:javi.cybersjr@gmail.com)    
+## 📫 Contact  
+📩 **Email:** [javi.cybersjr@gmail.com](mailto:javi.cybersjr@gmail.com)  
 
-¡Gracias por visitar mi perfil! 😊✨  
+Thanks for visiting my profile! 😊✨  
