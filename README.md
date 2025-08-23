@@ -18,7 +18,7 @@
 
 ## 🛠️ Featured Projects  
 
-🌟 **[Machine Ports](https://github.com/DDL00P/Machine-Ports)** – A description of the most common ports in Windows and Linux.  
+🌟 **[Machine Ports](https://github.com/DLL00P/Machine-Ports)** – A description of the most common ports in Windows and Linux.  
 🚀 **[Ports Scan](https://github.com/DDL00P/Ports-scan)** – A simple port scanner.  
 💻 **[Netrunners Toolkit](https://netrunners.in)** - Advanced tools for pentestings environment
 
