@@ -20,7 +20,7 @@
 
 🌟 **[Urlencode CLI](https://github.com/DLL00P/urlencode)** – A CLI tool to URL-encode or decode strings.  
 🚀 **[Wordpress Exploit](https://github.com/DLL00P/Wordpress-Theme-Upload-Exploit)** – WordPress exploitation tool.  
-💻 **[Netrunners Toolkit](https://netrunners.in)** - Advanced tools for pentestings environment.
+💻 **[Netrunners Toolkit](https://netrunners.sh)** - Advanced tools for pentestings environment.
 
 ---
 
