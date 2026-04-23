@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 💡 **Passionate about technology and innovation.**  
 💻 **Specialized in:** `JavaScript`, `Python`, `C++`, `React`, `Node.js`.  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Featured Projects  
+##  Featured Projects  
 
 🌟 **[Urlencode CLI](https://github.com/DLL00P/urlencode)** – A CLI tool to URL-encode or decode strings.  
 🚀 **[Wordpress Exploit](https://github.com/DLL00P/Wordpress-Theme-Upload-Exploit)** – WordPress exploitation tool.  
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
+##  GitHub Analytics  
 
 <p align="center">
   <a href="https://github.com/DLL00P">
