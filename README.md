@@ -35,7 +35,7 @@
 
 ---
 
-## 📫 Contact  
+##  Contact  
 **Email:** [javi.cybersjr@gmail.com](mailto:javi.cybersjr@gmail.com)  
 
 Thanks for visiting my profile! 😊✨  
