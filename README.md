@@ -19,7 +19,7 @@
 ```bash
 const DLL = {
     role:        "Offensive Security Engineer",
-    location:    "Somewhere behind a terminal 🖥️",
+    location:    "Somewhere behind a terminal",
     focus:       ["Web Pentesting", "Active Directory", "Red Team", "Bug Bounty"],
     learning:    ["Malware Analysis", "Exploit Development"],
     motto:       "There is no patch for human curiosity.",
