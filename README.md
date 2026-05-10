@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 `> cat /etc/profile`
+## `$ cat /etc/profile`
 
 ```bash
 const DLL = {
@@ -29,7 +29,7 @@ const DLL = {
 
 ---
 
-## 🛡️ Certifications
+## Certifications
 
 <div align="center">
 
@@ -44,7 +44,7 @@ const DLL = {
 
 ---
 
-## ⚔️ `> ls -la /opt/arsenal`
+## `$ ls -la /opt/arsenal`
 
 <div align="center">
 
@@ -66,7 +66,7 @@ const DLL = {
 
 ---
 
-## 🚀 `> ./featured_projects.sh`
+## `$ ./featured_projects.sh`
 
 <table align="center">
   <tr>
@@ -96,7 +96,7 @@ const DLL = {
 
 ---
 
-## 📊 `> nmap -A github.com/DLL00P`
+## `$ nmap -A github.com/DLL00P`
 
 <div align="center">
 
