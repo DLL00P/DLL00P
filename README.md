@@ -125,18 +125,19 @@ const DLL = {
   <a href="https://netrunners.sh">
     <img src="https://img.shields.io/badge/Website-00ff41?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
-  <!-- Añade los que uses -->
-  <!--
-  <a href="https://twitter.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/TU_USUARIO">
+  <a href="https://www.linkedin.com/in/javier-redondo-/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://app.hackthebox.com/profile/TU_ID">
+  <a href="https://app.hackthebox.com/users/2183595">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
-  -->
+  <a href="https://hackerone.com/dll00p">
+    <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+  </a>
+  <a href="https://bugcrowd.com/Javier_Redondo">
+    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  </a>
+
 
 </div>
 
