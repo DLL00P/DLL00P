@@ -2,9 +2,9 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+DLL+%F0%9F%91%BE;Offensive+Security+Engineer;Pentester+%7C+Red+Teamer+%7C+Bug+Hunter;Find.+Exploit.+Report.+Repeat." />
 
-  <p>
-    <img src="./assets/WhoIsDll.gif" alt="whoami" />
-  </p>
+<p align="center">
+  <img src="./assets/dll_typing_wide.gif" alt="whoami" width="700" />
+</p>
 
   <img src="https://komarev.com/ghpvc/?username=DLL00P&color=00ff41&style=flat-square&label=VISITORS" />
   <img src="https://img.shields.io/github/followers/DLL00P?label=Followers&style=flat-square&color=00ff41" />
