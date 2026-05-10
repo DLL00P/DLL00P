@@ -101,7 +101,7 @@ const DLL = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DLL00P&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DLL00P&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00ff41" />
+<img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DLL00P&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00ff41" />
 
   <br/><br/>
 
@@ -109,7 +109,7 @@ const DLL = {
 
   <br/><br/>
 
-  <img height="120" src="https://github-profile-trophy.vercel.app/?username=DLL00P&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DLL00P&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
