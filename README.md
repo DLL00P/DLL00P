@@ -99,9 +99,10 @@ const DLL = {
 ## `$ nmap -A github.com/DLL00P`
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DLL00P&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" />
-<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DLL00P&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00ff41" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DLL00P&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DLL00P&layout=compact&langs_count=6&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00ff41" />
+</p>
 
   <br/><br/>
 
