@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm DLL </h1>
 <p align="center">
-  <img src="./dll_whoami.gif" alt="whoami" />
+  <img src="./assets/dll_whoami.gif" alt="whoami" />
 </p>
 </div>
 
