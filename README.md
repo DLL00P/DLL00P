@@ -115,7 +115,7 @@ const DLL = {
 
 ---
 
-## 📫 `> netcat -lvnp 4444`
+## `$ netcat -lvnp 4444`
 
 <div align="center">
 
