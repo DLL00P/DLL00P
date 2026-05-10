@@ -109,7 +109,7 @@ const DLL = {
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=DLL00P&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=DLL00P&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
