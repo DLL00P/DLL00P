@@ -1,8 +1,8 @@
 <div align="center">
   
-<h1 align="center">
-  <span style="color:#00FF41">Hi, I'm DLL</span>
-</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=99999999&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+DLL+%F0%9F%91%BE" alt="Hi, I'm DLL" />
+  
 
 <div align="center">
   <img src="./assets/WhoIsDLL.gif" alt="whoami" width="700" />
