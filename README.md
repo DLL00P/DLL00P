@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img src="font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+DLL+%F0%9F%91%BE;" />
+  <p>src="&weight=600&size=28&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+DLL+%F0%9F%91%BE;</p> " 
+  
 
 <div align="center">
   <img src="./assets/WhoIsDLL.gif" alt="whoami" width="700" />
