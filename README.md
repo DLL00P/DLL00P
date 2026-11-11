@@ -148,7 +148,7 @@ const DLL = {
 
 <div align="center">
   
-  ### `$ echo "Thanks for visiting"`
+  ### `"Thanks for visiting"`
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:9F00FF&height=120&section=footer&text=&fontSize=0" />
 
